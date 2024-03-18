@@ -12,3 +12,4 @@ C:\Users\Casa\Desktop\Programacao\Alura\Cursos\C#\csharp-projeto-musical\obj\Deb
 C:\Users\Casa\Desktop\Programacao\Alura\Cursos\C#\csharp-projeto-musical\obj\Debug\net8.0\csharp-projeto-musical.pdb
 C:\Users\Casa\Desktop\Programacao\Alura\Cursos\C#\csharp-projeto-musical\obj\Debug\net8.0\csharp-projeto-musical.genruntimeconfig.cache
 C:\Users\Casa\Desktop\Programacao\Alura\Cursos\C#\csharp-projeto-musical\obj\Debug\net8.0\ref\csharp-projeto-musical.dll
+C:\Users\Casa\Desktop\Programacao\Alura\Cursos\C#\csharp-projeto-musical\obj\Debug\net8.0\csharp-projeto-musical.sourcelink.json
