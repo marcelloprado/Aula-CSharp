@@ -7,8 +7,9 @@ class Album
         Nome = nome;
     }
 
-    public string? Nome { get; set; }
+    public string Nome { get; set; }
     public int DuracaoTotal => musicas.Sum(m => m.Duracao);
+
     public void AdicionarMusica(Musica musica)
     {
         musicas.Add(musica);
